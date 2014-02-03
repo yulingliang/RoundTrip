@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
+// This is the generated main activity class.
 public class MainActivity extends ActionBarActivity {
 
     @Override
@@ -24,7 +25,6 @@ public class MainActivity extends ActionBarActivity {
                     .commit();
         }
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
